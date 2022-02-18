@@ -1,2 +1,3 @@
 # repo1
- Some basic maths code
+ 
+A collection of some basic math functions.
